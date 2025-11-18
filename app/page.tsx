@@ -179,7 +179,7 @@ const handleSubmit = async (e: React.FormEvent) => {
               </h1>
               <p className="text-2xl text-primary mb-4">Software Developer & IT Support Specialist</p>
               <p className="text-lg text-muted-foreground mb-8 leading-relaxed text-pretty">
-                Information Technology Graduate from North-West University (graduating April 2026) with hands-on experience in IT support, 
+                Information Technology Graduate from North-West University with hands-on experience in IT support, 
                 software development, and technical leadership. Passionate about building scalable applications, solving complex technical 
                 problems, and delivering user-focused solutions.
               </p>
