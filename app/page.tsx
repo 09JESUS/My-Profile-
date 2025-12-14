@@ -198,10 +198,7 @@ const handleSubmit = async (e: React.FormEvent) => {
                 </Button>
               </div>
               <div className="flex items-center gap-6 mt-8 text-sm text-muted-foreground">
-                <div className="flex items-center gap-2">
-                  <Award className="h-4 w-4 text-primary" />
-                  <span>GPA: 73.49%</span>
-                </div>
+                
                 <div className="flex items-center gap-2">
                   <Users className="h-4 w-4 text-primary" />
                   <span>15 Students • 82% Pass Rate</span>
