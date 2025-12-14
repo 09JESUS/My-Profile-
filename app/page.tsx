@@ -286,10 +286,6 @@ const handleSubmit = async (e: React.FormEvent) => {
                   <span>BSc IT, NWU (Completed 2025)</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <Award className="h-4 w-4 text-primary" />
-                  <span>GPA: 73.49%</span>
-                </div>
-                <div className="flex items-center gap-2">
                   <Users className="h-4 w-4 text-primary" />
                   <span>RCL Public Relations Officer (2020-2020)</span>
                 </div>
